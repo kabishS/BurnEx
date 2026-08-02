@@ -1,0 +1,18 @@
+[
+  { "name": "Oatmeal with banana",      "category": "breakfast", "calories": 280, "protein": 8 },
+  { "name": "Greek yogurt & berries",   "category": "breakfast", "calories": 190, "protein": 15 },
+  { "name": "Veggie omelette",          "category": "breakfast", "calories": 240, "protein": 16 },
+  { "name": "Peanut butter toast",      "category": "breakfast", "calories": 260, "protein": 9 },
+  { "name": "Grilled chicken salad",    "category": "lunch",     "calories": 350, "protein": 32 },
+  { "name": "Quinoa & chickpea bowl",   "category": "lunch",     "calories": 410, "protein": 15 },
+  { "name": "Turkey wrap",              "category": "lunch",     "calories": 380, "protein": 24 },
+  { "name": "Lentil soup",              "category": "lunch",     "calories": 260, "protein": 14 },
+  { "name": "Baked salmon & veggies",   "category": "dinner",    "calories": 420, "protein": 34 },
+  { "name": "Stir-fry tofu & rice",     "category": "dinner",    "calories": 390, "protein": 18 },
+  { "name": "Grilled paneer & greens",  "category": "dinner",    "calories": 360, "protein": 20 },
+  { "name": "Lean beef & sweet potato", "category": "dinner",    "calories": 460, "protein": 30 },
+  { "name": "Apple with almonds",       "category": "snack",     "calories": 160, "protein": 4 },
+  { "name": "Protein shake",            "category": "snack",     "calories": 150, "protein": 20 },
+  { "name": "Roasted chickpeas",        "category": "snack",     "calories": 130, "protein": 6 },
+  { "name": "Boiled eggs (2)",          "category": "snack",     "calories": 140, "protein": 12 }
+]
