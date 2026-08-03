@@ -207,6 +207,7 @@ async function requireAuth(expectedRole){
 }
 
 function logout(){
+  if (!confirm('Are you sure you want to log out?')) return;
   DB.clearSession();
   window.location.href = 'index.html';
 }
