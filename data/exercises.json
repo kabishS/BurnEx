@@ -1,0 +1,6 @@
+{
+  "squat":  { "name": "Squats",        "icon": "🦵", "met": 5.0, "joints": [23, 25, 27], "lowT": 100, "highT": 160 },
+  "pushup": { "name": "Push-ups",      "icon": "💪", "met": 8.0, "joints": [11, 13, 15], "lowT": 90,  "highT": 150 },
+  "curl":   { "name": "Bicep Curls",   "icon": "🏋️", "met": 3.5, "joints": [11, 13, 15], "lowT": 50,  "highT": 150 },
+  "jack":   { "name": "Jumping Jacks", "icon": "⭐", "met": 8.0, "joints": [23, 11, 15], "lowT": 50,  "highT": 160 }
+}
