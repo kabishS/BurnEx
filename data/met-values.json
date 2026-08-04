@@ -1,6 +1,0 @@
-{
-  "slow":     { "label": "Slow stroll (~3 km/h)",    "met": 2.5 },
-  "moderate": { "label": "Moderate pace (~5 km/h)",  "met": 3.5 },
-  "brisk":    { "label": "Brisk walk (~6.5 km/h)",   "met": 4.8 },
-  "running":  { "label": "Light jog (~8 km/h)",      "met": 8.0 }
-}
