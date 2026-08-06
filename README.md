@@ -96,11 +96,16 @@ Burn-Ex/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Kabish**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+Java Full Stack Developer | Frontend Developer | AI Enthusiast
 
+- GitHub: https://github.com/kabishS
+- LinkedIn: https://www.linkedin.com/in/kabish/
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
 ---
 
 ⭐ If you like this project, don't forget to star the repository!
