@@ -1,8 +1,0 @@
-/* Admin-specific styles */
-.member-row{display:flex;align-items:center;justify-content:space-between;padding:.8rem 0;border-bottom:1px solid var(--border);gap:1rem;flex-wrap:wrap;}
-.member-row:last-child{border-bottom:none;}
-.member-id{display:flex;align-items:center;gap:.7rem;min-width:0;}
-.member-stats{display:flex;gap:1.4rem;}
-.member-stats .ms{text-align:center;}
-.member-stats .ms .v{font-family:var(--font-m);font-weight:700;font-size:1rem;}
-.member-stats .ms .l{font-size:.68rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:.05em;}
