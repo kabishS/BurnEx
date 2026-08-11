@@ -1,0 +1,8 @@
+{
+  "1": { "day": "Monday",    "task": "20 squats + 10 min brisk walk",              "icon": "🦵" },
+  "2": { "day": "Tuesday",   "task": "15 push-ups + 3 sets of jumping jacks",       "icon": "💪" },
+  "3": { "day": "Wednesday", "task": "30 min walk or light jog",                   "icon": "🚶" },
+  "4": { "day": "Thursday",  "task": "12 bicep curls each arm + stretch",          "icon": "🏋️" },
+  "5": { "day": "Friday",    "task": "Full circuit: squats, push-ups, jacks, curls","icon": "🔥" },
+  "6": { "day": "Saturday",  "task": "Active recovery — light walk or yoga",       "icon": "🧘" }
+}
