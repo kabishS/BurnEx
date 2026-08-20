@@ -1,4 +1,4 @@
-# Burn-Ex — AI-Based Calorie Estimation System
+# Burn-Ex — AI-Based Calorie Estimation System | hackathon project
 
 A gym web app with **two dashboards** — a member side for live pose-tracked
 workouts, and a gym-owner (admin) side for managing members and leaderboards.
